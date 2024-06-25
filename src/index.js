@@ -1,0 +1,12 @@
+import "./css/main_style.css";
+import "./css/cards.css";
+import "./css/aleatoriedad.css";
+import "./css/comparate-two-cards.css";
+import "./css/flip-animation.css";
+import "./css/notificacion.css";
+import "./css/header.css";
+import "./css/footer.css";
+import "./css/started.css";
+import "./css/window-win.css";
+import "./css/pecebre.css";
+import "./css/drop-cap.css";
